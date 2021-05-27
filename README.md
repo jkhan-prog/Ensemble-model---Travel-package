@@ -1,6 +1,10 @@
 # Ensemble-model---Travel-package
-1.Read the business presentation powerpoint for relevant Business details
-2. Download the html file and view in any browser as the python notebook is large
+Develop a model to predict which travel package a customer will select
+
+1.Read the business presentation powerpoint in Github repository for relevant Business details
+
+2.Download the html file and view in any browser as the python notebook is large
+
 3. Project synopsis below - 
 Ensemble ML models to predict Travel packages
 To build ML model to predict Customer Selection to Targeted Campaign
