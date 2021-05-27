@@ -1,5 +1,5 @@
 # Ensemble-model---Travel-package
-Develop a model to predict which travel package a customer will select
+Develop ensemble ML models to predict which travel package a customer will select. A diverse breadth of ML models are covered in this project
 
 1.Read the business presentation powerpoint in Github repository for relevant Business details
 
